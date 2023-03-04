@@ -8,6 +8,7 @@ lerna-debug.log*
 
 node_modules
 .env/*
+certs/*
 
 # Optional npm cache directory
 .npm
